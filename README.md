@@ -6,14 +6,14 @@ An OpenCore-based EFI repository to run macOS (Ventura/Sonoma) on a Dell [Your L
 
 | Component      | Specification                    | Status                                         |
 | :------------- | :------------------------------- | :--------------------------------------------- |
-| **CPU**        | Intel Core [e.g., i5-8250U]      | Works (with full power management)             |
-| **GPU**        | Intel UHD Graphics [e.g., 620]   | Works (Full QE/CI Acceleration)                |
-| **RAM**        | [e.g., 8GB/16GB] DDR4            | Works                                          |
-| **Audio**      | Realtek ALC [e.g., 256]          | Works (Layout ID: [e.g., 21 or 13])            |
+| **CPU**        | Intel Core i7 10th gen          | Works (with full power management)             |
+| **GPU**        | Intel UHD Graphics            | Works (Full QE/CI Acceleration)                |
+| **RAM**        | 8GB DDR4                        | Works                                          |
+| **Audio**      | Realtek ALC                  | Works (Layout ID: [e.g., 21 or 13])            |
 | **Ethernet**   | Intel Mausi                      | Works                                          |
-| **Wi-Fi / BT** | Qualcomm/Atheros [e.g., QCA6174] | **Incompatible** (Use Ethernet during install) |
+| **Wi-Fi / BT** | Qualcomm/Atheros              | **Incompatible** (Use Ethernet during install) |
 | **Storage**    | ADATA 256GB SSD                  | Works (AHCI Mode required)                     |
-| **Display**    | [e.g., 14" FHD 1920x1080]        | Works                                          |
+| **Display**    | HD 1920x1080                    | Works                                          |
 | **Touchpad**   | I2C/PS2 Touchpad                 | Works (with macOS multi-touch gestures)        |
 
 ---
