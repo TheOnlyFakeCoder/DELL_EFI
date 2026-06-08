@@ -1,4 +1,4 @@
-# Dell [Your Laptop Model, e.g., Latitude 5490] Hackintosh
+# Dell Hackintosh
 
 An OpenCore-based EFI repository to run macOS (Ventura/Sonoma) on a Dell [Your Laptop Model] laptop. This configuration is optimized for daily driver stability, power efficiency, and performance.
 
